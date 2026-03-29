@@ -1,2 +1,2 @@
-# Study_CPP
-Study C++
+# LEARNING_CPP
+Study for C++
